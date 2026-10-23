@@ -1,0 +1,9 @@
+{
+  "name": "nexora-agency-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nexora — Digital Experiences, Technology & Creative Agency",
+  "scripts": {
+    "deploy": "vercel --prod"
+  }
+}
